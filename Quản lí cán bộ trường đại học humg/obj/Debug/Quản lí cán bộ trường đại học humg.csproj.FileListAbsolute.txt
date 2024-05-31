@@ -1,0 +1,60 @@
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản lí cán bộ trường đại học humg.csproj.AssemblyReference.cache
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.GioiThieu.resources
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_mỏ_địa_chất_hà_nội.Login.resources
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.Properties.Resources.resources
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.TrangChu.resources
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản lí cán bộ trường đại học humg.csproj.GenerateResource.cache
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản lí cán bộ trường đại học humg.csproj.CoreCompileInputs.cache
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.TroGiup.resources
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.XoaLuong.resources
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.XoaPb.resources
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\bin\Debug\Quản lí cán bộ trường đại học humg.exe.config
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\bin\Debug\Quản lí cán bộ trường đại học humg.exe
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\bin\Debug\Quản lí cán bộ trường đại học humg.pdb
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản lí cán bộ trường đại học humg.exe
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản lí cán bộ trường đại học humg.pdb
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.ThemCb.resources
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.ThemPb.resources
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.TheoTd.resources
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.ThongkeTheocv.resources
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.TimkiemtheoId.resources
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.XoaCb.resources
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.Chinhluong.resources
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.DanhsachCb.resources
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.Huu.resources
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.InLuongTheoPb.resources
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.Luongtang.resources
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.SapXep.resources
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.SuaPb.resources
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.SuattCb.resources
+D:\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.ThemLuong.resources
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\bin\Debug\Quản lí cán bộ trường đại học humg.exe
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\bin\Debug\Quản lí cán bộ trường đại học humg.exe.config
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản lí cán bộ trường đại học humg.csproj.AssemblyReference.cache
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\QuanLiCanBoTruongDaiHocHUMG.Chinhluong.resources
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.DanhsachCb.resources
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.GioiThieu.resources
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.Huu.resources
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.InLuongTheoPb.resources
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_mỏ_địa_chất_hà_nội.Login.resources
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.Properties.Resources.resources
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.SapXep.resources
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.SuaPb.resources
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.SuattCb.resources
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.ThemCb.resources
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.ThemLuong.resources
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.ThemPb.resources
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.TheoTd.resources
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.ThongkeTheocv.resources
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.TimkiemtheoId.resources
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.TrangChu.resources
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.TroGiup.resources
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.XoaCb.resources
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.Xoaluong.resources
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.XoaPb.resources
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản lí cán bộ trường đại học humg.csproj.GenerateResource.cache
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản lí cán bộ trường đại học humg.csproj.CoreCompileInputs.cache
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản lí cán bộ trường đại học humg.exe
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản lí cán bộ trường đại học humg.pdb
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\bin\Debug\Quản lí cán bộ trường đại học humg.pdb
+D:\BTL-QUẢN LÍ CÁN BỘ\Quản lí cán bộ trường đại học humg\Quản lí cán bộ trường đại học humg\obj\Debug\Quản_lí_cán_bộ_trường_đại_học_humg.Luongtang.resources
